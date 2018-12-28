@@ -1,0 +1,5 @@
+spring:
+  profiles:
+    active: test
+
+#这是公共配置
